@@ -65,8 +65,6 @@ Feel free to explore my repositories and follow my journey!
 
 ---
 
-## My Contributions 🐍
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oswald-21/Oswald-21/main/assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oswald-21/Oswald-21/main/assets/github-snake.svg" />
