@@ -1,24 +1,12 @@
 # Hi, I'm Oswald! 👋
 
-I'm a passionate web developer with around a year of experience, currently expanding my skills into mobile app development.
-
-I enjoy turning ideas into simple, intuitive, and meaningful digital experiences.
-
-I believe that if something can be simple, why make it complicated?
-
-After all, we're all users at some point. ;)
-
----
-
 ## About Me
 
-I'm a web developer who enjoys building applications that solve real problems and make everyday tasks easier.
+I'm a web developer with around a year of experience, building frontend and backend applications and currently expanding my skills into mobile development.
 
-My main focus is web development, working with both frontend and backend technologies. I'm also exploring mobile app development, learning new tools, and discovering different ways to bring ideas to life.
+I learn by building real projects, from social platforms to tools that help people organize their day. I care about clean interfaces, maintainable code, and understanding how people use what I build.
 
-I care about clean interfaces, maintainable code, and creating experiences that feel natural to the people using them.
-
-For me, development isn't just about writing code. It's about understanding how people interact with technology and finding simple ways to make those interactions better.
+My approach is simple: turn ideas into useful, intuitive experiences. After all, we're all users at some point. ;)
 
 ---
 
@@ -66,28 +54,6 @@ These projects are helping me improve my skills in application architecture, dat
 
 ---
 
-## My Approach
-
-**Keep it simple. Make it useful. Build for people.**
-
-I believe good software should be easy to understand, intuitive to use, and thoughtfully designed.
-
-I'm always looking for ways to improve my code, learn something new, and build better experiences.
-
-Because sometimes, the simplest solution is the best one.
-
----
-
-## A Little More About Me
-
-- I enjoy learning by building real projects.
-- I'm interested in both frontend and backend development.
-- I'm currently exploring mobile app development.
-- I like experimenting with new technologies and ideas.
-- I believe there's always something new to learn.
-
----
-
 ## Let's Connect!
 
 I'm always open to learning, sharing ideas, and connecting with other developers.
@@ -95,3 +61,14 @@ I'm always open to learning, sharing ideas, and connecting with other developers
 Feel free to explore my repositories and follow my journey!
 
 **Thanks for stopping by! 👋**
+
+
+---
+
+## My Contributions 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oswald-21/Oswald-21/main/assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oswald-21/Oswald-21/main/assets/github-snake.svg" />
+  <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/Oswald-21/Oswald-21/main/assets/github-snake.svg" />
+</picture>
