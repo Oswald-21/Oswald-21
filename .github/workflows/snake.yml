@@ -29,6 +29,18 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Remove the bottom progress bar
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          for path in Path("dist").glob("*.svg"):
+              svg = path.read_text()
+              svg, removed = re.subn(r'<rect\b[^>]*\bclass="u(?:\s[^"]*)?"[^>]*/>', '', svg)
+              if not removed:
+                  raise RuntimeError(f"Progress bar not found in {path}")
+              path.write_text(svg)
+          PY
       - name: Upload animations
         uses: actions/upload-artifact@v4
         with:
